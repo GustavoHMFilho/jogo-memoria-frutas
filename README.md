@@ -31,9 +31,25 @@ Encontrar todos os pares de frutas no menor número de jogadas e no menor tempo 
 ## 📁 Estrutura do projeto
 
 ```bash
-📦 memoria-das-frutas
+📦 jogo-memoria-frutas
  ┣ 📄 index.html
  ┣ 📄 style.css
  ┣ 📄 script.js
  ┣ 📄 README.md
  ┗ 📄 LICENSE
+```
+🌐 Acesso ao jogo
+
+Jogue online pelo GitHub Pages:
+
+https://gustavohmfilho.github.io/jogo-memoria-frutas/
+
+👨‍💻 Autor
+
+Desenvolvido por Gustavo Henrique Moraes Filho
+
+Disciplina: GAC116 - Programação Web - Universidade Federal de Lavras - UFLA
+
+📄 Licença
+
+Este projeto está sob a licença MIT.
